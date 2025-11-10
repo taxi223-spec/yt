@@ -15,7 +15,7 @@ st.title("YouTube Viral Topics Tool")
 days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30, value=5)
 
 # List of broader keywords
-keywords = [""Budget Travel Hacks Europe",
+keywords = ["Budget Travel Hacks Europe",
     "Hidden Gems Asia Backpacking",
     "Solo Female Travel Safety Tips",
     "Van Life Conversion DIY",

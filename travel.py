@@ -15,8 +15,7 @@ st.title("YouTube Viral Topics Tool")
 days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30, value=5)
 
 # List of broader keywords
-keywords = "Russia Ukraine War Latest Update", "China Taiwan Military Tension", "F-35 Fighter Jet News 2024","US Navy Modern Destroyer Review","Hypersonic Missile Technology Explained","NATO Exercise Drills Full Footage",
-    "World Military Power Ranking 2024", "Abrams Tank vs T-14 Armata Analysis", "Military Drone Warfare Tactics",
+keywords = "Russia Ukraine War Latest Update", "China Taiwan Military Tension", "F-35 Fighter Jet News 2024","US Navy Modern Destroyer Review","Hypersonic Missile Technology Explained","NATO Exercise Drills Full Footage","World Military Power Ranking 2024", "Abrams Tank vs T-14 Armata Analysis", "Military Drone Warfare Tactics",
     "New Defense Budget Breakdown", "Special Forces Training Documentary", "Future of Warfare AI and Robots",
     "North Korea Missile Launch Report", "Top 10 Military Technologies 2024", "Aircraft Carrier Operations Footage",
     "Geopolitical Security News Briefing", "Cyber Warfare Attacks Latest", "Submarine Technology Deep Dive",
